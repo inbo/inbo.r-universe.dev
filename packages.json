@@ -4,6 +4,10 @@
         "url": "https://github.com/inbo/checklist"
     },
     {
+        "package": "effectclass",
+        "url": "https://github.com/inbo/effectclass"
+    },
+    {
         "package": "git2rdata",
         "url": "https://github.com/ropensci/git2rdata"
     },
@@ -12,12 +16,16 @@
         "url": "https://github.com/inbo/grtsdb"
     },
     {
-        "package": "INBOtheme",
-        "url": "https://github.com/inbo/inbotheme"
+        "package": "ladybird",
+        "url": "https://github.com/inbo/ladybird"
     },
     {
         "package": "INBOmd",
         "url": "https://github.com/inbo/inbomd"
+    },
+    {
+        "package": "INBOtheme",
+        "url": "https://github.com/inbo/inbotheme"
     },
     {
         "package": "inlatools",
