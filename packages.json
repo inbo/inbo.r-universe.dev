@@ -1,0 +1,34 @@
+[
+    {
+        "package": "checklist",
+        "url": "https://github.com/inbo/checklist"
+    },
+    {
+        "package": "git2rdata",
+        "url": "https://github.com/ropensci/git2rdata"
+    },
+    {
+        "package": "grtsdb",
+        "url": "https://github.com/inbo/grtsdb"
+    },
+    {
+        "package": "INBOtheme",
+        "url": "https://github.com/inbo/inbotheme"
+    },
+    {
+        "package": "INBOmd",
+        "url": "https://github.com/inbo/inbomd"
+    },
+    {
+        "package": "inlatools",
+        "url": "https://github.com/inbo/inlatools"
+    },
+    {
+        "package": "multimput",
+        "url": "https://github.com/inbo/multimput"
+    },
+    {
+        "package": "territoria",
+        "url": "https://github.com/inbo/territoria"
+    }
+]
