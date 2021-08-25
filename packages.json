@@ -16,10 +16,6 @@
         "url": "https://github.com/inbo/grtsdb"
     },
     {
-        "package": "ladybird",
-        "url": "https://github.com/inbo/ladybird"
-    },
-    {
         "package": "INBOmd",
         "url": "https://github.com/inbo/inbomd"
     },
@@ -30,6 +26,14 @@
     {
         "package": "inlatools",
         "url": "https://github.com/inbo/inlatools"
+    },
+    {
+        "package": "ladybird",
+        "url": "https://github.com/inbo/ladybird"
+    },
+    {
+        "package": "lipsum",
+        "url": "https://github.com/inbo/lipsum"
     },
     {
         "package": "multimput",
