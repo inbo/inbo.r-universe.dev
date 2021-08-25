@@ -40,7 +40,15 @@
         "url": "https://github.com/inbo/multimput"
     },
     {
+        "package": "n2khab",
+        "url": "https://github.com/inbo/n2khab"
+    },
+    {
         "package": "territoria",
         "url": "https://github.com/inbo/territoria"
+    },
+    {
+        "package": "watina",
+        "url": "https://github.com/inbo/watina"
     }
 ]
