@@ -16,6 +16,10 @@
         "url": "https://github.com/inbo/grtsdb"
     },
     {
+        "package": "inbodb",
+        "url": "https://github.com/inbo/inbdb"
+    },
+    {
         "package": "INBOmd",
         "url": "https://github.com/inbo/inbomd"
     },
@@ -34,6 +38,10 @@
     {
         "package": "lipsum",
         "url": "https://github.com/inbo/lipsum"
+    },
+    {
+        "package": "LSVI",
+        "url": "https://github.com/inbo/lsvi"
     },
     {
         "package": "multimput",
