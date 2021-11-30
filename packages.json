@@ -4,6 +4,10 @@
         "url": "https://github.com/inbo/checklist"
     },
     {
+        "package": "codemetar",
+        "url": "https://github.com/ropensci/codemetar"
+    },
+    {
         "package": "effectclass",
         "url": "https://github.com/inbo/effectclass"
     },
