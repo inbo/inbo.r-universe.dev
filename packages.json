@@ -8,6 +8,10 @@
         "url": "https://github.com/ropensci/codemetar"
     },
     {
+        "package": "dhcurve",
+        "url": "https://github.com/inbo/dhcurve"
+    },
+    {
         "package": "effectclass",
         "url": "https://github.com/inbo/effectclass"
     },
