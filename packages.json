@@ -24,6 +24,10 @@
         "url": "https://github.com/inbo/grtsdb"
     },
     {
+        "package": "frictionless",
+        "url": "https://github.com/frictionlessdata/frictionless-r"
+    },
+    {
         "package": "inbodb",
         "url": "https://github.com/inbo/inbodb"
     },
