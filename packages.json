@@ -76,6 +76,10 @@
         "url": "https://github.com/inbo/territoria"
     },
     {
+        "package": "wateRinfo",
+        "url": "https://github.com/rOpenSci/wateRinfo"
+    },
+    {
         "package": "watina",
         "url": "https://github.com/inbo/watina"
     }
