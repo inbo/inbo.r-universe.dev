@@ -98,5 +98,9 @@
     {
         "package": "watina",
         "url": "https://github.com/inbo/watina"
+    },
+    {
+        "package": "zen4R",
+        "url": "https://github.com/eblondel/zen4R"
     }
 ]
