@@ -52,6 +52,10 @@
         "url": "https://github.com/inbo/inlatools"
     },
     {
+        "package": "kableExtra",
+        "url": "https://github.com/ThierryO/kableExtra"
+    },
+    {
         "package": "ladybird",
         "url": "https://github.com/inbo/ladybird"
     },
