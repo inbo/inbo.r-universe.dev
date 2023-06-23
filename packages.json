@@ -56,6 +56,10 @@
         "url": "https://github.com/ThierryO/kableExtra"
     },
     {
+        "package": "KSgeneral",
+        "url": "https://github.com/raymondtsr/ksgeneral"
+    },
+    {
         "package": "ladybird",
         "url": "https://github.com/inbo/ladybird"
     },
