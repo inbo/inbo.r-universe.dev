@@ -44,6 +44,10 @@
         "url": "https://github.com/inbo/inborutils"
     },
     {
+        "package": "inbospatial",
+        "url": "https://github.com/inbo/inbospatial"
+    },
+    {
         "package": "INBOtheme",
         "url": "https://github.com/inbo/inbotheme"
     },
