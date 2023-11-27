@@ -88,6 +88,10 @@
         "url": "https://github.com/inbo/n2khab"
     },
     {
+        "package": "n2khabmon",
+        "url": "https://github.com/inbo/n2khabmon"
+    },
+    {
         "package": "n2khelper",
         "url": "https://github.com/inbo/n2khelper"
     },
