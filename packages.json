@@ -104,6 +104,10 @@
         "url": "https://github.com/inbo/territoria"
     },
     {
+        "package": "trias",
+        "url": "https://github.com/trias-project/trias"
+    }
+    {
         "package": "wateRinfo",
         "url": "https://github.com/rOpenSci/wateRinfo"
     },
