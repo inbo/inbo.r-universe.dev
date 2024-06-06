@@ -1,5 +1,9 @@
 [
     {
+        "package": "camtrapdp",
+        "url": "https://github.com/inbo/camtrapdp"
+    },
+    {
         "package": "camtraptor",
         "url": "https://github.com/inbo/camtraptor"
     },
