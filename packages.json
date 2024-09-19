@@ -24,6 +24,10 @@
         "url": "https://github.com/inbo/effectclass"
     },
     {
+        "package": "forrescalc",
+        "url": "https://github.com/inbo/forrescalc"
+    },
+    {
         "package": "git2rdata",
         "url": "https://github.com/ropensci/git2rdata"
     },
