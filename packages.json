@@ -24,6 +24,10 @@
         "url": "https://github.com/inbo/effectclass"
     },
     {
+        "package": "etn",
+        "url": "https://github.com/inbo/etn"
+    },
+    {
         "package": "forrescalc",
         "url": "https://github.com/inbo/forrescalc"
     },
@@ -78,6 +82,10 @@
     {
         "package": "LSVI",
         "url": "https://github.com/inbo/lsvi"
+    },
+    {
+        "package": "movepub",
+        "url": "https://github.com/inbo/movepub"
     },
     {
         "package": "multimput",
