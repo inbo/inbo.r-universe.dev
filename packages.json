@@ -1,5 +1,9 @@
 [
     {
+        "package": "abvanalysis",
+        "url": "https://github.com/inbo/abvanalysis"
+    },
+    {
         "package": "camtrapdp",
         "url": "https://github.com/inbo/camtrapdp"
     },
@@ -106,6 +110,10 @@
     {
         "package": "n2khelper",
         "url": "https://github.com/inbo/n2khelper"
+    },
+    {
+        "package": "n2kupdate",
+        "url": "https://github.com/inbo/n2kupdate"
     },
     {
         "package": "protocolhelper",
