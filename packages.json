@@ -20,6 +20,10 @@
         "url": "https://github.com/ropensci/codemetar"
     },
     {
+        "package": "designpower",
+        "url": "https://github.com/inbo/designpower"
+    },
+    {
         "package": "dhcurve",
         "url": "https://github.com/inbo/dhcurve"
     },
