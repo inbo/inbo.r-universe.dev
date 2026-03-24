@@ -104,6 +104,10 @@
         "url": "https://github.com/inbo/movepub"
     },
     {
+        "package": "mnedesigndata",
+        "url": "https://github.com/inbo/mnedesigndata"
+    },
+    {
         "package": "multimput",
         "url": "https://github.com/inbo/multimput"
     },
