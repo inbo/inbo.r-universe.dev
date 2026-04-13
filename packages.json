@@ -16,6 +16,10 @@
         "url": "https://github.com/inbo/checklist"
     },
     {
+        "package": "citeme",
+        "url": "https://github.com/inbo/citeme"
+    },
+    {
         "package": "codemetar",
         "url": "https://github.com/ropensci/codemetar"
     },
