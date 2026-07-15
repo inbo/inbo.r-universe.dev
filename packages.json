@@ -4,6 +4,10 @@
         "url": "https://github.com/inbo/abvanalysis"
     },
     {
+        "package": "bioRad",
+        "url":  "https://github.com/adokter/bioRad"
+    },
+    {
         "package": "camtrapdp",
         "url": "https://github.com/inbo/camtrapdp"
     },
@@ -36,9 +40,17 @@
         "url": "https://github.com/inbo/effectclass"
     },
     {
+        "package": "esas",
+        "url": "https://github.com/inbo/esas"
+    },
+    {
         "package": "etn",
         "url": "https://github.com/inbo/etn"
     },
+    {
+        "package": "etnservice",
+        "url": "https://github.com/inbo/etnservice"
+    }
     {
         "package": "flandersqmd",
         "url": "https://github.com/inbo/flandersqmd"
@@ -144,12 +156,20 @@
         "url": "https://github.com/r-spatial/qgisprocess"
     },
     {
+        "package": "ratatouille",
+        "url": "https://github.com/inbo/ratatouille"
+    },
+    {
         "package": "territoria",
         "url": "https://github.com/inbo/territoria"
     },
     {
         "package": "trias",
         "url": "https://github.com/trias-project/trias"
+    },
+    {
+        "package": "vespadb",
+        "url": "https://github.com/inbo/vespadb"
     },
     {
         "package": "wateRinfo",
