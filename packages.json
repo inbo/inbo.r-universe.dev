@@ -160,6 +160,10 @@
         "url": "https://github.com/inbo/ratatouille"
     },
     {
+        "package": "sbsampling",
+        "url": "https://github.com/inbo/sbsampling"
+    },
+    {
         "package": "territoria",
         "url": "https://github.com/inbo/territoria"
     },
